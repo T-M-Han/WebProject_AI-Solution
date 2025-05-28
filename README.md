@@ -29,5 +29,5 @@ An web project featuring a full-stack e-commerce platform for sneaker enthusiast
 ## Contact
 Thaw Myo Han  
 - Email: thawmyohan736@gmail.com
-- LinkedIn: linkedin.com/in/han2873292a7/ 
+- LinkedIn: (https://linkedin.com/in/han2873292a7/)
 - GitHub: (https://github.com/T-M-Han)
